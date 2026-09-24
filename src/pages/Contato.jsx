@@ -1,5 +1,5 @@
 
-const Contato = () => {
+export function Contato () {
   return (
     <>
       
